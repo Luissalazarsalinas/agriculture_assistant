@@ -1,1 +1,1 @@
-# agriculture_assistant
+#  AI agriculture assistant
