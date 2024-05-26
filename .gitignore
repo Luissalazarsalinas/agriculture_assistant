@@ -1,0 +1,5 @@
+agri_assistant/
+models/
+.env
+test_route.py
+retriever.py
